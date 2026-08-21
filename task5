@@ -1,0 +1,64 @@
+# Task 5: Individual Case Safety Report (ICSR)
+
+## Case Overview
+- **Patient:** Female, 45 years  
+- **Suspected Drug:** Amoxicillin  
+- **Adverse Reaction:** Rash, itching, nausea, dizziness  
+- **Timeline:**  
+  - Day 1 – Amoxicillin started  
+  - Day 2 – Symptoms began  
+  - Day 5 – Symptoms worsened  
+- **Outcome:** Recovered after discontinuation of Amoxicillin  
+
+---
+
+## 1. ADR Identification
+- **Suspected ADR:** Allergic reaction (rash, itching, nausea, dizziness)  
+- **Suspected Drug:** Amoxicillin  
+- **Reasoning:** Symptoms appeared soon after initiation and worsened with continued use.  
+
+---
+
+## 2. ADR Reporting (ICSR Form)
+- **Patient Initial:** F45  
+- **Age/Gender:** 45 / Female  
+- **Suspected Medicine:** Amoxicillin, Oral, Start Date: Day 1  
+- **Adverse Reaction:** Rash, itching, nausea, dizziness  
+- **Onset:** Day 2  
+- **Recovery:** After discontinuation  
+- **Outcome:** Ongoing allergic reaction (resolved post-dechallenge)  
+- **Seriousness:** Non-serious (no hospitalization, but medically important)  
+- **Reporter:** Vasanth Selvam, Pharmacy Intern / Student  
+- **Institution:** [Insert institution name]  
+
+---
+
+## 3. Causality Assessment
+- **Temporal Relationship:** Yes (reaction after drug initiation)  
+- **Dechallenge:** Positive (symptoms improved after stopping drug)  
+- **Alternative Causes:** None significant  
+- **Rechallenge:** Not performed  
+- **Classification:** **Probable** (strong temporal link and dechallenge, but no rechallenge data)  
+
+---
+
+## 4. Severity & Case Classification
+| Drug         | Adverse Reaction                          | Seriousness   | Expectedness |
+|--------------|-------------------------------------------|---------------|--------------|
+| Amoxicillin  | Rash, itching, nausea, dizziness          | Non-serious   | Expected     |
+
+- **Summary:**  
+  - Serious ADRs: 0  
+  - Non-serious ADRs: 1  
+  - Expected ADRs: 1  
+  - Unexpected ADRs: 0  
+
+---
+
+## Key Learning Points
+- ADR evaluation requires **systematic steps**: identification, reporting, causality, and classification.  
+- **Dechallenge outcomes** are critical in confirming drug-related reactions.  
+- **Severity and expectedness classification** ensures proper pharmacovigilance reporting.  
+- A complete ICSR improves **patient safety and regulatory compliance**.  
+
+---
