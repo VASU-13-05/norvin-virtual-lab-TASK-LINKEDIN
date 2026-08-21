@@ -21,6 +21,3 @@
 - Document findings clearly for **patient safety and pharmacovigilance reporting**.  
 
 ---
-
-### Submission
-Provide this analysis as part of your GitHub commit or video explanation.
