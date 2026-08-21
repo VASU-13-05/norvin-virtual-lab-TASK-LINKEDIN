@@ -1,0 +1,42 @@
+# ADR Reporting & Documentation
+
+## ADR Reporting Form
+
+### 1. Patient Information
+- **Patient Initial:** F45  
+- **Age / Gender:** 45 / Female  
+
+### 2. Suspected Medicine
+- **Medicine Name:** Amoxicillin  
+- **Route:** Oral  
+- **Start Date:** Day 1  
+
+### 3. Adverse Reaction
+- **Reaction / Event:** Rash, itching, nausea, dizziness  
+- **Date of Onset:** Day 2  
+- **Date of Recovery:** Not yet recovered (symptoms worsened by Day 5)  
+- **Outcome:** Ongoing allergic reaction  
+- **Seriousness:** Moderate (requires medical attention, but not life-threatening)  
+
+### 4. Reporter Information
+- **Name:** Vasanth Selvam  
+- **Designation:** Pharmacy Intern / Student  
+- **Contact:** [Insert email/phone if required]  
+- **Healthcare Institution:** [Insert institution name]  
+
+### 5. Additional Information
+- Patient was also taking **Paracetamol (as needed)**, but timing and symptom profile suggest Amoxicillin as the primary suspect.  
+- Known ADR profile of Amoxicillin includes hypersensitivity reactions such as rash and dizziness.  
+
+---
+
+## Key Learning Points
+- ADR reporting requires **structured documentation** for clarity and traceability.  
+- Always capture **timeline of drug initiation vs. symptom onset**.  
+- Include **reporter details** to ensure accountability and follow-up.  
+- Pharmacovigilance systems rely on **complete, accurate, and standardized reports**.  
+
+---
+
+### Submission
+Provide this structured report as part of your GitHub commit or video explanation.
