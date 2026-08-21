@@ -1,0 +1,43 @@
+# Task 3: Causality Assessment of Drug Reactions
+
+## Case Study
+- **Patient:** Female, 45 years  
+- **Suspected Drug:** Amoxicillin  
+- **Adverse Reaction:** Skin rash  
+- **Onset:** 3 days after starting the drug  
+- **Outcome:** Recovered after stopping the drug  
+
+## Assessment Criteria
+1. **Temporal Relationship:**  
+   - Reaction occurred after drug administration (Day 3).  
+   - ✔ Supports causality.  
+
+2. **Dechallenge:**  
+   - Symptoms improved after stopping Amoxicillin.  
+   - ✔ Strong evidence of drug-related reaction.  
+
+3. **Alternative Causes:**  
+   - No other strong alternative causes identified.  
+   - ✔ Supports Amoxicillin as primary suspect.  
+
+4. **Rechallenge:**  
+   - Not performed in this case.  
+   - ✘ No data available.  
+
+## Classification
+- **Causality Category:** **Probable**  
+- **Reasoning:** Clear temporal relationship and positive dechallenge strongly support Amoxicillin as the cause. Lack of rechallenge data prevents classification as “Certain.”  
+
+---
+
+## Key Learning Points
+- **Temporal association** is the first step in causality assessment.  
+- **Dechallenge outcomes** provide strong evidence for drug-related ADRs.  
+- **Alternative causes** must always be considered to avoid misattribution.  
+- **Rechallenge** is rarely performed due to ethical concerns, but when available, it provides definitive evidence.  
+
+---
+
+### Submission
+- **Video Link:** [Causality Assessment Tutorial](https://youtu.be/6gH4AWnwTDI?si=QffwkI6ufMtzc0MN)  
+- Provide this structured causality assessment as part of your GitHub commit or video explanation.
