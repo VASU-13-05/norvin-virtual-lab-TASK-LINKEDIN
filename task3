@@ -1,39 +1,41 @@
 # Task 3: Causality Assessment of Drug Reactions
 
 ## Case Study
-- **Patient:** Female, 45 years 
+- **Patient:** 45‑year‑old female  
 - **Suspected Drug:** Amoxicillin  
 - **Adverse Reaction:** Skin rash  
 - **Onset:** 3 days after starting the drug  
-- **Outcome:** Recovered after stopping the drug  
+- **Outcome:** Recovered after discontinuation  
 
-## Assessment Criteria
-1. **Temporal Relationship:**  
-   - Reaction occurred after drug administration (Day 3).  
-   - ✔ Supports causality.  
+---
 
-2. **Dechallenge:**  
-   - Symptoms improved after stopping Amoxicillin.  
-   - ✔ Strong evidence of drug-related reaction.  
+## Step‑by‑Step Assessment
 
-3. **Alternative Causes:**  
-   - No other strong alternative causes identified.  
-   - ✔ Supports Amoxicillin as primary suspect.  
+1. **Temporal Relationship**  
+   The rash appeared three days after Amoxicillin was initiated. This timing strongly supports a causal link between the drug and the reaction.  
 
-4. **Rechallenge:**  
-   - Not performed in this case.  
-   - ✘ No data available.  
+2. **Dechallenge**  
+   Once Amoxicillin was stopped, the patient’s rash resolved. This positive dechallenge is a key indicator that the drug was responsible.  
+
+3. **Alternative Causes**  
+   No other medications or underlying conditions were identified that could explain the rash. This strengthens the case for Amoxicillin as the primary suspect.  
+
+4. **Rechallenge**  
+   The drug was not re‑administered, so rechallenge data is unavailable. While this limits certainty, it does not weaken the strong temporal and dechallenge evidence.  
+
+---
 
 ## Classification
 - **Causality Category:** **Probable**  
-- **Reasoning:** Clear temporal relationship and positive dechallenge strongly support Amoxicillin as the cause. Lack of rechallenge data prevents classification as “Certain.”  
+- **Reasoning:** The clear temporal association and positive dechallenge strongly implicate Amoxicillin. Absence of rechallenge data prevents classification as “Certain,” but the evidence is compelling enough for “Probable.”  
 
 ---
 
 ## Key Learning Points
-- **Temporal association** is the first step in causality assessment.  
-- **Dechallenge outcomes** provide strong evidence for drug-related ADRs.  
-- **Alternative causes** must always be considered to avoid misattribution.  
-- **Rechallenge** is rarely performed due to ethical concerns, but when available, it provides definitive evidence.  
+- Always begin with **timing**: when symptoms appear relative to drug initiation.  
+- A **positive dechallenge** (symptoms improving after stopping the drug) is one of the strongest indicators of causality.  
+- **Alternative explanations** must be ruled out to avoid misattribution.  
+- **Rechallenge** is rarely done in practice due to ethical concerns, but when available, it provides definitive proof.  
+- Structured causality assessment ensures consistency in pharmacovigilance and patient safety.  
 
 ---
